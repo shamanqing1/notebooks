@@ -1,0 +1,13 @@
+site_name: 个人笔记
+nav:
+  - 主页: index.md
+  - 计算机视觉:
+      - OpenCV: computer_vision.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+theme:
+  name: material
+  language: zh
