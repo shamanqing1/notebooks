@@ -1,3 +1,8 @@
-# 计算机视觉
+---
+title: 计算机视觉
+---
 
-$$\lambda$$
+
+<div>
+--8<-- "figure1.html"
+</div>
