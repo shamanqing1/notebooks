@@ -1,8 +1,18 @@
 site_name: 个人笔记
 nav:
   - 主页: index.md
+  - 软件开发:
+    - 多线程编程:
+      - Pthreads多线程编程: pthreads_multithreading.md
+      - C++多线程编程: cpp_multithreading.md
+
   - 计算机视觉:
-      - OpenCV: computer_vision.md
+    - 视频技术: 
+        - 视频编解码: video_codec.md
+    # - OpenCV: computer_vision.md
+
+  - 环境搭建:
+    - 交叉编译OpenSSH: cross_compile_openssh.md
 
 markdown_extensions:
   - pymdownx.highlight:
